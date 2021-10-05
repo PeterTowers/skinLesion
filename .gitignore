@@ -1,6 +1,7 @@
-# Local folders with images
+# Local folders
 img/
 img_shades_cc/
+models_bak/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
