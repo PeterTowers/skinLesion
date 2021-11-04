@@ -2,9 +2,11 @@
 ## Universidade de Brasília
 
 CIC0193 - Fundamentos de Sistemas Inteligentes
+
 Professor: Vinicius Borges
 
 Aluno: Pedro Lucas Silva Haga Torres
+
 Matrícula: 16/0141575
 
 Brasília, 04 de novembro de 2021.
